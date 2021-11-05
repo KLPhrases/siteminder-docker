@@ -38,10 +38,10 @@ c) The protected resource comprising a dump of the Http request will be displaye
 Open the 'https://localhost:8443/iam/siteminder/adminui' page and sign in with siteminder/siteminder (leave the policy server field blank).
 
 ## Questions / Issues
-If you got any questions or problems using the image, please visit our [Github Repository](https://github.com/atricore/siteminder-docker) and write an issue.
+If you have any questions or problems using the image, please visit our [Github Repository](https://github.com/atricore/siteminder-docker) and report an issue.
 
 ## Sponsors
 
-This project is sponsored Atricore - No Code Identity and Access Management :
+This project is sponsored by Atricore - No Code Identity and Access Management :
 
 <a href="https://atricore.com"><img src="https://uploads-ssl.webflow.com/611d67401a94b9fb36e5b81f/611d6c7ea44ebe1b8ecd9d0c_atricore-logo.svg" width="320" /></a>
